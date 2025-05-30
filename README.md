@@ -8,6 +8,7 @@ The `a2957d.C.M()` method allows execution of x86_64 machine code via Ntdll's `N
 - Hardware random number generators (RDRAND)
 - Bit manipulation instructions (ROL, ROR)
 - Cryptographic instruction extensions (AES-NI, SHA)
+- Wide instructions using XMM and YMM registers (SSE, AVX family)
 - CPUID and other system introspection instructions
 - Performance-critical operations requiring specific x86_64
 
